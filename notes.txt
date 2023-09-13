@@ -7,3 +7,4 @@ github
 5.git cofig --global user.name"user name"
 6.git config --global user.email"user email"
 7.git push -u origin main (main=branch name)
+-m -u (option)
